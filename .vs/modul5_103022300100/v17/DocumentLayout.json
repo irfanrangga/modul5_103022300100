@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\modul5_103022300100\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{808A4DAA-1B93-4933-ADE2-129DEF130561}|modul5_103022300100.csproj|d:\\modul5_103022300100\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808A4DAA-1B93-4933-ADE2-129DEF130561}|modul5_103022300100.csproj|solutionrelative:mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808A4DAA-1B93-4933-ADE2-129DEF130561}|modul5_103022300100.csproj|d:\\modul5_103022300100\\pemrosesandata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808A4DAA-1B93-4933-ADE2-129DEF130561}|modul5_103022300100.csproj|solutionrelative:pemrosesandata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{808A4DAA-1B93-4933-ADE2-129DEF130561}|modul5_103022300100.csproj|d:\\modul5_103022300100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{808A4DAA-1B93-4933-ADE2-129DEF130561}|modul5_103022300100.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "D:\\modul5_103022300100\\MainClass.cs",
+              "RelativeDocumentMoniker": "MainClass.cs",
+              "ToolTip": "D:\\modul5_103022300100\\MainClass.cs",
+              "RelativeToolTip": "MainClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:04:22.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PemrosesanData.cs",
+              "DocumentMoniker": "D:\\modul5_103022300100\\PemrosesanData.cs",
+              "RelativeDocumentMoniker": "PemrosesanData.cs",
+              "ToolTip": "D:\\modul5_103022300100\\PemrosesanData.cs",
+              "RelativeToolTip": "PemrosesanData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:56:33.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\modul5_103022300100\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
